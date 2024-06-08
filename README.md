@@ -26,6 +26,9 @@
 - Objetos agarrables
 - Objetos a los que hay que mirar
 
-## Tipos de movimiento:
+## Tipos de movimiento/locomoción:
 - Primera sala, puntos concretos a los que desplazarse
 - Segunda sala, un área libre en la que el jugador se puede mover
+
+## Mandos:
+- Visibles, cubos de color verde
