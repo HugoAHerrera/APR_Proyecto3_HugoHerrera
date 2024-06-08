@@ -1,6 +1,6 @@
 # APR_Proyecto3_HugoHerrera
 ## Inicio del juego:
-- En caso de que al abrir el proyecto esté en escena untitled, ir a la carpeta Scenes y cargar MenuScene
+- En caso de que al abrir el proyecto esté en escena untitled o MainScene, ir a la carpeta Scenes y cargar MenuScene
 
 ## ¿En qué consiste el juego?
 - Es un escape room con dos salas, 6 minutos en total para superar el juego
@@ -32,3 +32,6 @@
 
 ## Mandos:
 - Visibles, cubos de color verde
+
+## Nota:
+El proyecto tiene warnings pero funciona
